@@ -1,0 +1,168 @@
+INFO 2024-11-16 03:58:27,195 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-16 03:58:30,635 log Not Found: /
+WARNING 2024-11-16 03:58:30,636 basehttp "GET / HTTP/1.1" 404 2617
+WARNING 2024-11-16 03:58:30,738 log Not Found: /favicon.ico
+INFO 2024-11-16 03:58:30,740 basehttp - Broken pipe from ('127.0.0.1', 52863)
+INFO 2024-11-16 03:58:41,486 basehttp "GET /admin/ HTTP/1.1" 200 10808
+INFO 2024-11-16 03:58:41,661 basehttp - Broken pipe from ('127.0.0.1', 52869)
+INFO 2024-11-16 03:58:41,663 basehttp - Broken pipe from ('127.0.0.1', 52870)
+INFO 2024-11-16 03:58:41,663 basehttp - Broken pipe from ('127.0.0.1', 52868)
+INFO 2024-11-16 03:58:48,469 basehttp "GET /admin/users/user/add/ HTTP/1.1" 200 24788
+INFO 2024-11-16 03:58:48,550 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,558 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,560 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,561 basehttp "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,563 basehttp "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,564 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,565 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,567 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,567 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,568 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,568 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 03:58:48,569 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,571 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,574 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2024-11-16 03:58:48,630 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 200 11564
+WARNING 2024-11-16 03:58:48,695 log Not Found: /favicon.ico
+INFO 2024-11-16 03:58:48,696 basehttp - Broken pipe from ('127.0.0.1', 52872)
+INFO 2024-11-16 03:58:48,720 basehttp "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-11-16 03:58:48,721 basehttp "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-11-16 03:59:44,149 basehttp "POST /admin/users/user/add/ HTTP/1.1" 302 0
+INFO 2024-11-16 03:59:44,185 basehttp "GET /admin/users/user/ HTTP/1.1" 200 12432
+INFO 2024-11-16 03:59:44,250 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 03:59:44,250 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2024-11-16 03:59:44,254 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-11-16 03:59:44,308 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-11-16 03:59:44,308 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-11-16 03:59:46,790 basehttp "GET /admin/users/user/2/change/ HTTP/1.1" 200 25115
+INFO 2024-11-16 03:59:46,851 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 03:59:53,196 basehttp "GET /admin/users/user/ HTTP/1.1" 200 12240
+INFO 2024-11-16 03:59:54,767 basehttp "GET /admin/attendance/attendance/ HTTP/1.1" 200 10527
+INFO 2024-11-16 03:59:54,825 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 03:59:56,771 basehttp "GET /admin/attendance/attendance/add/ HTTP/1.1" 200 15451
+INFO 2024-11-16 03:59:56,831 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 03:59:56,833 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-11-16 04:00:02,694 basehttp "GET /admin/courses/course/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6716
+INFO 2024-11-16 04:00:02,758 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 04:00:17,048 basehttp "POST /admin/courses/course/add/?_to_field=id&_popup=1 HTTP/1.1" 200 337
+INFO 2024-11-16 04:00:17,112 basehttp "GET /static/admin/js/popup_response.js HTTP/1.1" 304 0
+INFO 2024-11-16 04:00:18,485 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-11-16 04:00:28,256 basehttp "POST /admin/attendance/attendance/add/ HTTP/1.1" 302 0
+INFO 2024-11-16 04:00:28,280 basehttp "GET /admin/attendance/attendance/ HTTP/1.1" 200 12073
+INFO 2024-11-16 04:00:28,389 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 04:00:30,543 basehttp "GET /admin/attendance/attendance/1/change/ HTTP/1.1" 200 15792
+INFO 2024-11-16 04:00:30,628 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 04:00:34,002 basehttp "POST /admin/attendance/attendance/1/change/ HTTP/1.1" 302 0
+INFO 2024-11-16 04:00:34,023 basehttp "GET /admin/attendance/attendance/ HTTP/1.1" 200 12075
+INFO 2024-11-16 04:00:34,099 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 04:00:41,848 basehttp "GET /admin/courses/course/add/ HTTP/1.1" 200 13605
+INFO 2024-11-16 04:00:41,922 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 04:00:50,360 basehttp "GET /admin/grades/grade/add/ HTTP/1.1" 200 17099
+INFO 2024-11-16 04:00:50,419 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 04:00:57,926 basehttp "GET /admin/courses/course/1/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6729
+INFO 2024-11-16 04:00:57,999 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 04:01:10,096 basehttp "GET /admin/users/user/3/change/?_to_field=id HTTP/1.1" 200 25151
+INFO 2024-11-16 04:01:10,166 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-16 04:01:35,504 basehttp "POST /admin/grades/grade/add/ HTTP/1.1" 302 0
+INFO 2024-11-16 04:01:35,524 basehttp "GET /admin/grades/grade/ HTTP/1.1" 200 11974
+INFO 2024-11-16 04:01:35,595 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2024-11-16 04:01:35,660 log Not Found: /favicon.ico
+INFO 2024-11-16 04:01:35,660 basehttp - Broken pipe from ('127.0.0.1', 52873)
+INFO 2024-11-16 05:05:30,154 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-16 05:05:32,369 log Not Found: /
+WARNING 2024-11-16 05:05:32,370 basehttp "GET / HTTP/1.1" 404 2617
+WARNING 2024-11-16 05:05:32,452 log Not Found: /favicon.ico
+INFO 2024-11-16 05:05:32,453 basehttp - Broken pipe from ('127.0.0.1', 53527)
+INFO 2024-11-16 05:05:38,051 basehttp "GET /admin/ HTTP/1.1" 200 16476
+WARNING 2024-11-16 05:05:38,175 log Not Found: /favicon.ico
+INFO 2024-11-16 05:05:38,176 basehttp - Broken pipe from ('127.0.0.1', 53533)
+INFO 2024-11-16 05:05:38,223 basehttp - Broken pipe from ('127.0.0.1', 53530)
+INFO 2024-11-16 05:05:38,240 basehttp - Broken pipe from ('127.0.0.1', 53529)
+INFO 2024-11-16 05:05:38,245 basehttp - Broken pipe from ('127.0.0.1', 53528)
+INFO 2024-11-16 05:05:38,246 basehttp - Broken pipe from ('127.0.0.1', 53531)
+INFO 2024-11-16 05:05:38,246 basehttp - Broken pipe from ('127.0.0.1', 53532)
+WARNING 2024-11-16 11:51:39,132 log Unauthorized: /api/students/1/
+WARNING 2024-11-16 11:51:40,892 log Unauthorized: /api/students/1/
+WARNING 2024-11-16 11:51:42,637 log Unauthorized: /api/students/1/
+WARNING 2024-11-16 12:23:39,554 log Not Found: /api/grades/1/
+WARNING 2024-11-16 12:23:41,285 log Not Found: /api/grades/1/
+WARNING 2024-11-16 12:32:46,200 log Not Found: /api/grades/1/
+WARNING 2024-11-16 12:32:47,924 log Not Found: /api/grades/1/
+WARNING 2024-11-16 12:33:15,455 log Not Found: /api/grades/1/
+WARNING 2024-11-16 12:33:17,182 log Not Found: /api/grades/1/
+WARNING 2024-11-16 17:31:45,935 log Not Found: /api/grades/1/
+WARNING 2024-11-16 17:31:48,775 log Not Found: /api/grades/1/
+INFO 2024-11-16 17:36:08,271 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-16 17:36:11,868 log Not Found: /
+WARNING 2024-11-16 17:36:11,869 basehttp "GET / HTTP/1.1" 404 2617
+WARNING 2024-11-16 17:36:16,807 log Unauthorized: /api/
+WARNING 2024-11-16 17:36:16,808 basehttp "GET /api/ HTTP/1.1" 401 5009
+INFO 2024-11-16 17:36:16,951 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-11-16 17:36:16,953 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-11-16 17:36:16,958 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-11-16 17:36:16,965 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-11-16 17:36:16,968 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-11-16 17:36:16,972 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-11-16 17:36:17,131 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-11-16 17:36:17,133 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-11-16 17:36:17,137 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-11-16 17:36:17,138 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-11-16 17:36:17,139 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-11-16 17:36:17,182 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-11-16 17:36:23,700 log Unauthorized: /api/
+WARNING 2024-11-16 17:36:23,701 basehttp "GET /api/ HTTP/1.1" 401 5009
+WARNING 2024-11-16 17:37:07,878 log Not Found: /api/grades
+WARNING 2024-11-16 17:37:07,879 basehttp "GET /api/grades HTTP/1.1" 404 6620
+WARNING 2024-11-16 17:37:22,220 log Not Found: /api/grades/
+WARNING 2024-11-16 17:37:22,221 basehttp "GET /api/grades/ HTTP/1.1" 404 6623
+WARNING 2024-11-16 17:37:26,659 log Not Found: /api/grades/1
+WARNING 2024-11-16 17:37:26,660 basehttp "GET /api/grades/1 HTTP/1.1" 404 6626
+INFO 2024-11-16 17:38:45,081 autoreload C:\Users\Ползователь\OneDrive\Рабочий стол\miniProject2\StudentManagementSystem\StudentManagementSystem\urls.py changed, reloading.
+INFO 2024-11-16 17:38:47,802 autoreload Watching for file changes with StatReloader
+INFO 2024-11-16 17:38:49,326 basehttp "GET /api/grades/1 HTTP/1.1" 301 0
+WARNING 2024-11-16 17:38:49,399 log Unauthorized: /api/grades/1/
+WARNING 2024-11-16 17:38:49,400 basehttp "GET /api/grades/1/ HTTP/1.1" 401 5313
+INFO 2024-11-16 17:38:49,721 basehttp - Broken pipe from ('127.0.0.1', 54771)
+INFO 2024-11-16 17:38:49,724 basehttp - Broken pipe from ('127.0.0.1', 54770)
+INFO 2024-11-16 17:38:49,736 basehttp - Broken pipe from ('127.0.0.1', 54769)
+WARNING 2024-11-16 17:39:00,642 log Unauthorized: /api/grades/1/
+WARNING 2024-11-16 17:39:00,643 basehttp "GET /api/grades/1/?format=json HTTP/1.1" 401 58
+WARNING 2024-11-16 17:39:05,603 log Unauthorized: /api/grades/
+WARNING 2024-11-16 17:39:05,604 basehttp "GET /api/grades/ HTTP/1.1" 401 5159
+INFO 2024-11-16 17:39:11,064 basehttp "GET /api/grades/2 HTTP/1.1" 301 0
+WARNING 2024-11-16 17:39:11,090 log Unauthorized: /api/grades/2/
+WARNING 2024-11-16 17:39:11,091 basehttp "GET /api/grades/2/ HTTP/1.1" 401 5313
+WARNING 2024-11-16 17:39:57,172 log Unauthorized: /api/grades/1/
+WARNING 2024-11-16 17:40:00,056 log Unauthorized: /api/grades/1/
+WARNING 2024-11-16 17:43:31,362 log Unauthorized: /api/grades/1/
+WARNING 2024-11-16 17:43:34,233 log Unauthorized: /api/grades/1/
+INFO 2024-11-16 22:11:14,748 autoreload Watching for file changes with StatReloader
+INFO 2024-11-16 22:12:03,815 autoreload C:\Users\Ползователь\OneDrive\Рабочий стол\miniProject2\StudentManagementSystem\StudentManagementSystem\urls.py changed, reloading.
+INFO 2024-11-16 22:12:06,507 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-16 22:12:12,352 log Not Found: /
+WARNING 2024-11-16 22:12:12,352 basehttp "GET / HTTP/1.1" 404 2964
+INFO 2024-11-16 22:12:23,450 basehttp "GET /swagger HTTP/1.1" 301 0
+ERROR 2024-11-16 22:12:23,512 log Internal Server Error: /swagger/
+Traceback (most recent call last):
+  File "C:\Users\Ползователь\OneDrive\Рабочий стол\miniProject2\myvenv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ползователь\OneDrive\Рабочий стол\miniProject2\myvenv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ползователь\OneDrive\Рабочий стол\miniProject2\myvenv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ползователь\OneDrive\Рабочий стол\miniProject2\myvenv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ползователь\OneDrive\Рабочий стол\miniProject2\myvenv\Lib\site-packages\drf_yasg\renderers.py", line 79, in render
+    return render_to_string(self.template, renderer_context, renderer_context['request'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ползователь\OneDrive\Рабочий стол\miniProject2\myvenv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ползователь\OneDrive\Рабочий стол\miniProject2\myvenv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: drf-yasg/swagger-ui.html
+ERROR 2024-11-16 22:12:23,516 basehttp "GET /swagger/ HTTP/1.1" 500 100028
